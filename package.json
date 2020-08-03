@@ -1,0 +1,22 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "This is my First pwa project",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamerratic/pwa.git"
+  },
+  "author": "Keshav Singh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamerratic/pwa/issues"
+  },
+  "homepage": "https://github.com/iamerratic/pwa#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
